@@ -3,6 +3,9 @@
 Terraform module to create an Aviatrix-managed AWS TGW, mandatory Security Domains and the default connections
 https://docs.aviatrix.com/HowTos/tgw_plan.html
 
+![Terraform Aviatrix-managed AWS TGW](images/terraform-aviatrix-tgw-o.png "Terraform Aviatrix-managed AWS TGW")
+
+
 ## Sample usage
 
 ```hcl
