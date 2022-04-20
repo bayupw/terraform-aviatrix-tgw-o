@@ -1,5 +1,5 @@
 module "tgw" {
-  source  = "bayupw/tgw-o/aws"
+  source  = "bayupw/tgw-o/aviatrix"
   version = "1.0.0"
 
   aws_account = "aws-account"
