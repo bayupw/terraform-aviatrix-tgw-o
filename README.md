@@ -4,7 +4,7 @@ Terraform module to create an Aviatrix-managed AWS TGW, mandatory Security Domai
 https://docs.aviatrix.com/HowTos/tgw_plan.html
 
 ### Diagram
-<img src="https://github.com/bayupw/terraform-aviatrix-tgw-o/blob/main/images/terraform-aviatrix-tgw-o.png?raw=true">
+<img src="https://github.com/bayupw/terraform-aviatrix-tgw-o/blob/main/images/terraform-aviatrix-tgw-o-small.png?raw=true">
 
 
 ## Sample usage
