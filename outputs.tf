@@ -1,14 +1,14 @@
-output "aviatrix_aws_tgw" {
+output "tgw" {
   description = "The created Aviatrix Managed AWS TGW aviatrix_aws_tgw as an object with all of it's attributes"
   value       = aviatrix_aws_tgw.this
 }
 
-output "aviatrix_aws_tgw_security_domain" {
+output "security_domain" {
   description = "The created mandatory security domains aviatrix_aws_tgw_security_domain as an object with all of it's attributes"
   value       = aviatrix_aws_tgw_security_domain.this
 }
 
-output "aviatrix_aws_tgw_peering_domain_conn" {
+output "domain_conn" {
   description = "The created mandatory dp,aom cpmmectopms aviatrix_aws_tgw_peering_domain_conn as an object with all of it's attributes"
   value       = aviatrix_aws_tgw_peering_domain_conn.this
 }
